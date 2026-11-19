@@ -4,9 +4,8 @@ Proyek Kelompok Mata Kuliah **Pemrograman Mobile 2**
 Program Studi D4 Teknologi Rekayasa Komputer, Jurusan TIK, Politeknik Negeri Samarinda
 
 ## Anggota Kelompok
-1. **Nama Lengkap 1** (NIM: xxxxxxxxx) — Peran: Smart Contract & Deployment Sepolia
-2. **Nama Lengkap 2** (NIM: xxxxxxxxx) — Peran: Pengembangan UI Flutter & Integrasi `web3dart`
-3. **Nama Lengkap 3** (NIM: xxxxxxxxx) — Peran: Pengujian, Build APK & Dokumentasi
+1. **Achmad Fadhil Mustafa** (NIM: xxxxxxxxx) — Peran: Smart Contract & Deployment Sepolia, Pengembangan UI Flutter & Integrasi `web3dart`  
+2. **Muhammad Rafli** (NIM: xxxxxxxxx) — Peran: Pengujian, Build APK & Dokumentasi
 
 ---
 
